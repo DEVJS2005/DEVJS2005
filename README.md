@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @DEVJS2005
-- 👀 I’m interested in Phyton
-- I’m Gamer
-I'am student!
+#Fala! JS na tecla 😁
 
 <div>
   <a href="https://github.com/DEVJS2005">
