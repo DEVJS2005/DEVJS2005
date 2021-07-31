@@ -1,14 +1,24 @@
-#Fala! JS na tecla 😁
-
+ # Fala! JS na tecla 😁
+ 
+ ## Principio S.O.L.I.D:
+>S — Single Responsiblity Principle (Princípio da responsabilidade única)
+     
+>O — Open-Closed Principle (Princípio Aberto-Fechado)
+     
+>L — Liskov Substitution Principle (Princípio da substituição de Liskov)
+      
+>I — Interface Segregation Principle (Princípio da Segregação da Interface)
+       
+ >D — Dependency Inversion Principle (Princípio da inversão da dependência)
 <div>
   <a href="https://github.com/DEVJS2005">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVJS2005&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVJS2005&layout=compact&langs_count=7&theme=buefy"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="JS-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="JS-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="JS-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="JS-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="JS-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="JS-PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="right" alt="JS-Programando" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 </div>
   ##
