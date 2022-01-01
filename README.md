@@ -1,15 +1,6 @@
- # Fala! JS na tecla 😁
+ # DEV JS
  
- ## Principio S.O.L.I.D:
->S — Single Responsiblity Principle (Princípio da responsabilidade única)
-     
->O — Open-Closed Principle (Princípio Aberto-Fechado)
-     
->L — Liskov Substitution Principle (Princípio da substituição de Liskov)
-      
->I — Interface Segregation Principle (Princípio da Segregação da Interface)
-       
- >D — Dependency Inversion Principle (Princípio da inversão da dependência)
+ ## Técnico em deselvovimento de sistemas!
 <div>
   <a href="https://github.com/DEVJS2005">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVJS2005&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
