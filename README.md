@@ -1,6 +1,6 @@
  # DEV JS
  
- ## Técnico em deselvovimento de sistemas.👨🏻‍💻
+ ## Técnico em desenvolvimento de sistemas.👨🏻‍💻
  ## Buscando Bacharelado em sistemas da informação.🤵🏻
 <div>
   <a href="https://github.com/DEVJS2005">
