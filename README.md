@@ -11,7 +11,7 @@
   <img align="center" alt="JS-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="JS-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="JS-PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-   <img align="center" alt="JS-PHP" height="40" width="45" src="https://docs.microsoft.com/pt-br/windows/dev-environment/">
+   <img align="center" alt="JS-PHP" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="right" alt="JS-Programando" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 </div>
   ##
