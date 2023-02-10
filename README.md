@@ -1,7 +1,6 @@
  # João Victor(JS)
  
- ## Técnico em desenvolvimento de sistemas👨🏻‍💻\nEntusiasta de tecnologia
- ## Buscando Bacharelado em sistemas da informação🤵🏻
+ ## Técnico em desenvolvimento de sistemas👨🏻‍💻 ##Entusiasta de tecnologia ## Buscando Bacharelado em sistemas da informação🤵🏻
 <div>
   <a href="https://github.com/DEVJS2005">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVJS2005&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
