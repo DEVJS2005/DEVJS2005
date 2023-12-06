@@ -1,6 +1,6 @@
  # João Victor Batista
  
- ## Técnico em desenvolvimento de sistemas👨🏻‍💻<br/> Técnico em TI<br/> Entusiasta de tecnologia🧑‍💻<br/> Buscando Bacharelado em sistemas da informação🤵br/> Gamer 🎮
+ ## Técnico em desenvolvimento de sistemas👨🏻‍💻<br/> Técnico em TI<br/> Entusiasta de tecnologia🧑‍💻<br/> Buscando Bacharelado em sistemas da informação🤵<br/> Gamer 🎮
  
 <div>
   <a href="https://github.com/DEVJS2005">
