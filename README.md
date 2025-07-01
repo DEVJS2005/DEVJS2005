@@ -25,14 +25,6 @@
 ## 🚀 Sobre mim
 Eu sou técnico em desenvolvimento de sistemas👨🏻‍💻, Técnico em TI, Entusiasta de tecnologia🧑‍💻, Bacharelando em sistemas de informação🤵 e Gamer 🎮. 
 Gosto de programar nas horas vagas e estou voltando a estudar programação para retornar ao mundo da programação.
-
-## Resumo dos meus repositórios
-  <div style="display: inline_block" style="justify-content: space-around;"><br>
-  <img align="center" alt="JS-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="JS-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JS-Csharp" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="JS-html" height="40" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg">
-  <img align="center" alt="JS-dotnet" height="40" width="45" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dot-net/dot-net-original.svg">
  
 
   <a href="https://www.instagram.com/jsbatis/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
