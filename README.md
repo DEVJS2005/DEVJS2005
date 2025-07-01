@@ -27,11 +27,6 @@ Eu sou técnico em desenvolvimento de sistemas👨🏻‍💻, Técnico em TI, E
 Gosto de programar nas horas vagas e estou voltando a estudar programação para retornar ao mundo da programação.
 
 ## Resumo dos meus repositórios
-<div>
-  <a href="https://github.com/DEVJS2005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEVJS2005&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVJS2005&layout=compact&langs_count=7&theme=buefy"/>
-</div>
   <div style="display: inline_block" style="justify-content: space-around;"><br>
   <img align="center" alt="JS-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="JS-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
