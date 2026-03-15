@@ -9,7 +9,7 @@ Profissional de tecnologia com perfil versátil, atualmente atuando como **Anali
 
 - 🎓 Bacharelando em **Sistemas de Informação**.
 - 🛠️ Técnico em **Desenvolvimento de Sistemas** e **Informática** pelo SENAI.
-- 📍 Baseado em Aracaju, SE.
+- 📍 Aracaju, SE.
 - 🎮 Nas horas vagas, um bom gamer e entusiasta de hardware.
 
 ---
